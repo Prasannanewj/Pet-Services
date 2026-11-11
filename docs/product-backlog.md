@@ -113,7 +113,7 @@ Vaccine, medicine, and food offers require category-specific review. Food offers
 |---|---|---|---|---|
 | US-23 | Relevance | As a pet owner, I want to receive content relevant to my pet so that communications are useful. | Segmentation uses permitted, available data and approved content; missing data does not produce unsupported clinical claims. | O4-KR2, O4-KR3 |
 | US-24 | Optimization | As a marketing manager, I want to test approved message variants so that we can improve engagement responsibly. | Variants are approved before use; audiences and controls are defined; results include engagement and opt-outs. | O4-KR2, O4-KR3; O5-KR1 |
-| US-25 | Offer relevance | As a pet owner, I want to see offers for which I am eligible so that I am not presented with misleading promotions. | Eligibility rules are applied before display; offer terms remain visible; clinical advice is not replaced by promotional ranking. | O3-KR1 |
+| US-25 | Offer relevance | As a pet owner, I want to see offers for which I am eligible so that I am not presented with misleading promotions. | Eligibility is checked before display; every active, approved offer for which the owner is eligible is shown, and ineligible, expired, or unapproved offers are excluded. Each offer's terms, eligibility, and expiration remain visible before redemption. Offer ordering does not imply clinical preference or displace clinic-approved clinical advice. | O3-KR1 |
 
 ## Delivery Dependencies and Prioritization
 
